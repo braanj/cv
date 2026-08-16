@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "title": "Brahim Anjjar — Développeur Vue.js & Nuxt.js | Agadir, Maroc",
+    "description": "Brahim Anjjar, développeur Vue.js et Nuxt.js avec 5+ ans d'expérience en production, spécialisé dans la livraison d'applications web performantes et optimisées pour le SEO. Ouvert aux postes remote en UE et aux missions freelance."
+  },
+  "nav": {
+    "stack": "Stack",
+    "experience": "Expérience",
+    "work": "Projets",
+    "contact": "Contact",
+    "availability": "Disponible"
+  },
+  "hero": {
+    "headline": "Je conçois des sites Nuxt.js qui se chargent en secondes, pas en minutes.",
+    "ctaPrimary": "Me contacter",
+    "ctaSecondary": "Voir GitHub"
+  },
+  "readout": {
+    "metrics": [
+      { "label": "Amélioration moyenne du LCP" },
+      { "label": "URLs conformes aux Core Web Vitals" },
+      { "label": "Sites livrés en production" }
+    ]
+  },
+  "header": {
+    "name": "Brahim Anjjar",
+    "jobTitle": "Développeur Vue.js — expert Nuxt.js, Strapi, Prismic, Tailwind, TypeScript, Playwright",
+    "description": "5+ ans d'expérience en production, spécialisé dans la livraison d'applications web performantes et optimisées pour le SEO.",
+    "location": {
+      "locality": "Agadir",
+      "country": "Maroc"
+    },
+    "availabilityLabel": "Ouvert à :",
+    "availability": "des postes remote en UE (temps plein) et des missions freelance — relocalisation envisageable en France, Belgique, Pays-Bas, Portugal, ou ailleurs dans l'UE."
+  },
+  "summary": {
+    "heading": "Résumé",
+    "body": "Développeur front-end concevant des applications Nuxt.js prêtes pour la production, rapides, bien référencées et fiables sous forte charge. Le SEO technique est traité au niveau du code — pas comme une réflexion après coup, mais comme une contrainte dès le premier commit : données structurées, Core Web Vitals, rendu optimisé pour le SSR, et configuration de Google Search Console livrés en standard."
+  },
+  "skills": {
+    "heading": "Compétences & Stack",
+    "groups": [
+      {
+        "title": "Front-End",
+        "items": ["Vue.js 3", "Nuxt.js 3", "TypeScript", "Tailwind CSS"]
+      },
+      {
+        "title": "CMS & Back-End",
+        "items": ["Strapi", "Prismic", "REST API", "WordPress", "WooCommerce", "PHP", "MySQL", "ACF"]
+      },
+      {
+        "title": "SEO Technique",
+        "items": ["Core Web Vitals", "Données structurées Schema.org", "Lighthouse", "Google Search Console"]
+      },
+      {
+        "title": "Outils & Tests",
+        "items": ["Playwright", "Git"]
+      }
+    ]
+  },
+  "experience": {
+    "heading": "Expérience",
+    "jobs": [
+      {
+        "role": "Développeur Frontend",
+        "companyName": "DevForYou",
+        "startDate": "2023-08",
+        "endDate": null,
+        "dateLabel": "Août 2023 – Présent · Maroc (Remote)",
+        "context": "Développement et maintenance continue de martinique.airlocal.com, une plateforme touristique Nuxt.js dédiée au marché de la Martinique.",
+        "highlights": [
+          "Amélioration du LCP moyen de 3,5 secondes sur les pages clés",
+          "Passage des Core Web Vitals au vert sur l'ensemble des URLs suivies",
+          "Intégration de nouveaux modèles de contenu dans Strapi CMS, réduisant la friction éditoriale",
+          "Optimisation du pipeline de rendu pour une performance SSR constante"
+        ],
+        "stack": "Nuxt.js 3 · Vue.js · Strapi CMS · REST API · SEO Technique · Google Search Console",
+        "relation": "worksFor"
+      },
+      {
+        "role": "Développeur WordPress",
+        "companyName": "DevForYou",
+        "startDate": "2022-11",
+        "endDate": "2023-08",
+        "dateLabel": "Novembre 2022 – Août 2023 · Maroc",
+        "context": "Implémentation, personnalisation et optimisation des performances de plus de 20 sites WordPress dans des secteurs variés.",
+        "highlights": [
+          "Développement de thèmes sur mesure sans dépendances plugin superflues",
+          "Compatibilité cross-browser sur l'ensemble des navigateurs majeurs",
+          "Conformité SEO on-page sur chaque livraison",
+          "Formation client et documentation de passation"
+        ],
+        "stack": "WordPress · WooCommerce · PHP · MySQL · ACF",
+        "relation": "alumniOf"
+      },
+      {
+        "role": "Développeur WordPress",
+        "companyName": "Novazeo",
+        "startDate": "2021-03",
+        "endDate": "2022-11",
+        "dateLabel": "Mars 2021 – Novembre 2022 · Remote (clients français)",
+        "context": "Implémentation, personnalisation et optimisation des performances de plus de 30 sites WordPress pour des clients français, en full remote depuis le Maroc.",
+        "highlights": [
+          "Livraison conforme aux standards et délais des clients français",
+          "Performance, accessibilité et compatibilité cross-browser assurées en standard",
+          "Markup SEO-ready et optimisation de la vitesse de chargement sur chaque projet"
+        ],
+        "stack": "WordPress · PHP · MySQL · SEO · Performance",
+        "relation": "alumniOf"
+      }
+    ]
+  },
+  "credentials": {
+    "heading": "Certifications & Langues",
+    "certifications": [
+      { "category": "Certification", "name": "Certified Nuxt Master" }
+    ],
+    "languages": ["Anglais (langue maternelle ou bilingue)", "Français (langue maternelle ou bilingue)"]
+  },
+  "projects": {
+    "heading": "Projets phares",
+    "items": [
+      {
+        "label": "martinique.airlocal.com — Plateforme touristique Nuxt.js",
+        "href": "https://martinique.airlocal.com",
+        "isWorkExample": true
+      },
+      {
+        "label": "explore-sirene — Explorateur d'annuaire d'entreprises en Vue.js",
+        "href": "https://github.com/braanj/explore-sirene",
+        "isWorkExample": false
+      },
+      {
+        "label": "Liste complète des projets sur GitHub",
+        "href": "https://github.com/braanj?tab=repositories",
+        "isWorkExample": false
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Travaillons ensemble",
+    "body": "Ouvert aux postes remote en UE à temps plein et aux missions freelance. Contactez-moi directement :"
+  }
+}

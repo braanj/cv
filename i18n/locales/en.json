@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "title": "Brahim Anjjar — Vue.js & Nuxt.js Developer | Agadir, Morocco",
+    "description": "Brahim Anjjar, Vue.js and Nuxt.js developer with 5+ years of production experience delivering performant, SEO-optimised web applications. Open to remote EU roles and freelance missions."
+  },
+  "nav": {
+    "stack": "Stack",
+    "experience": "Experience",
+    "work": "Work",
+    "contact": "Contact",
+    "availability": "Available for work"
+  },
+  "hero": {
+    "headline": "I build Nuxt.js sites that load in seconds, not minutes.",
+    "ctaPrimary": "Get in touch",
+    "ctaSecondary": "View GitHub"
+  },
+  "readout": {
+    "metrics": [
+      { "label": "Avg. LCP improvement" },
+      { "label": "URLs passing Core Web Vitals" },
+      { "label": "Production sites shipped" }
+    ]
+  },
+  "header": {
+    "name": "Brahim Anjjar",
+    "jobTitle": "Vue.js Developer — expert on Nuxt.js, Strapi, Prismic, Tailwind, TypeScript, Playwright",
+    "description": "5+ years of production experience delivering performant, SEO-optimised web applications.",
+    "location": {
+      "locality": "Agadir",
+      "country": "Morocco"
+    },
+    "availabilityLabel": "Open to:",
+    "availability": "remote EU roles (full-time) and freelance missions — relocation considered for France, Belgium, Netherlands, Portugal, or elsewhere in the EU."
+  },
+  "summary": {
+    "heading": "Summary",
+    "body": "Front-end developer building production-ready Nuxt.js applications that load fast, rank well, and hold up under real traffic. Technical SEO is handled at the code level — not as an afterthought, but as a constraint from the first commit: structured data, Core Web Vitals, SSR-optimised rendering, and Google Search Console configuration delivered as standard."
+  },
+  "skills": {
+    "heading": "Skills & Stack",
+    "groups": [
+      {
+        "title": "Front-End",
+        "items": ["Vue.js 3", "Nuxt.js 3", "TypeScript", "Tailwind CSS"]
+      },
+      {
+        "title": "CMS & Back-End",
+        "items": ["Strapi", "Prismic", "REST API", "WordPress", "WooCommerce", "PHP", "MySQL", "ACF"]
+      },
+      {
+        "title": "Technical SEO",
+        "items": ["Core Web Vitals", "Schema.org Structured Data", "Lighthouse", "Google Search Console"]
+      },
+      {
+        "title": "Tools & Testing",
+        "items": ["Playwright", "Git"]
+      }
+    ]
+  },
+  "experience": {
+    "heading": "Experience",
+    "jobs": [
+      {
+        "role": "Frontend Developer",
+        "companyName": "DevForYou",
+        "startDate": "2023-08",
+        "endDate": null,
+        "dateLabel": "August 2023 – Present · Morocco (Remote)",
+        "context": "Ongoing development and maintenance of martinique.airlocal.com, a Nuxt.js tourism platform serving the Martinique market.",
+        "highlights": [
+          "Improved average LCP by 3.5 seconds across key pages",
+          "Brought Core Web Vitals to passing on all monitored URLs",
+          "Integrated new content models in Strapi CMS, reducing editorial friction",
+          "Optimised page rendering pipeline for consistent SSR performance"
+        ],
+        "stack": "Nuxt.js 3 · Vue.js · Strapi CMS · REST API · Technical SEO · Google Search Console",
+        "relation": "worksFor"
+      },
+      {
+        "role": "WordPress Developer",
+        "companyName": "DevForYou",
+        "startDate": "2022-11",
+        "endDate": "2023-08",
+        "dateLabel": "November 2022 – August 2023 · Morocco",
+        "context": "Implemented, customised, and performance-optimised 20+ WordPress websites across various industries.",
+        "highlights": [
+          "Custom theme development without unnecessary plugin dependencies",
+          "Cross-browser compatibility across all major browsers",
+          "On-page SEO compliance on every delivery",
+          "Client training and handover documentation"
+        ],
+        "stack": "WordPress · WooCommerce · PHP · MySQL · ACF",
+        "relation": "alumniOf"
+      },
+      {
+        "role": "WordPress Developer",
+        "companyName": "Novazeo",
+        "startDate": "2021-03",
+        "endDate": "2022-11",
+        "dateLabel": "March 2021 – November 2022 · Remote (French clients)",
+        "context": "Implemented, customised, and performance-optimised 30+ WordPress websites for French clients, working fully remotely from Morocco.",
+        "highlights": [
+          "Delivered consistently to French client standards and timelines",
+          "Performance, accessibility, and cross-browser compatibility as standard",
+          "SEO-ready markup and page speed optimisation on each project"
+        ],
+        "stack": "WordPress · PHP · MySQL · SEO · Performance",
+        "relation": "alumniOf"
+      }
+    ]
+  },
+  "credentials": {
+    "heading": "Certifications & Languages",
+    "certifications": [
+      { "category": "Certification", "name": "Certified Nuxt Master" }
+    ],
+    "languages": ["English (Native or Bilingual)", "French (Native or Bilingual)"]
+  },
+  "projects": {
+    "heading": "Featured Work",
+    "items": [
+      {
+        "label": "martinique.airlocal.com — Nuxt.js tourism platform",
+        "href": "https://martinique.airlocal.com",
+        "isWorkExample": true
+      },
+      {
+        "label": "explore-sirene — Vue.js company directory explorer",
+        "href": "https://github.com/braanj/explore-sirene",
+        "isWorkExample": false
+      },
+      {
+        "label": "Full repository list on GitHub",
+        "href": "https://github.com/braanj?tab=repositories",
+        "isWorkExample": false
+      }
+    ]
+  },
+  "footer": {
+    "heading": "Let's work together",
+    "body": "Open to full-time remote EU roles and freelance missions. Reach out directly:"
+  }
+}
